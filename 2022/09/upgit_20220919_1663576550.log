@@ -1,0 +1,9 @@
+2022-09-19 16:33:31.397684 +0800 CST m=+0.002596043[INFO ] Started
+2022-09-19 16:33:31.400808 +0800 CST m=+0.005719918[INFO ] uploader: github
+2022-09-19 16:33:31.401386 +0800 CST m=+0.006298251[INFO ] uploading #TASK_0 /Applications/Typora.app/Contents/Resources/TypeMark/assets/icon/icon_512x512.png
+2022-09-19 16:33:34.510927 +0800 CST m=+3.115891043[INFO ] failed to upload #TASK_0 /Applications/Typora.app/Contents/Resources/TypeMark/assets/icon/icon_512x512.png : Put "https://api.github.com/repos/h-a-n-a/static/contents/2022/09/upgit_20220919_1663576411.png": EOF
+2022-09-19 16:33:34.512 +0800 CST m=+3.116964335[INFO ] uploading #TASK_1 /Applications/Typora.app/Contents/Resources/TypeMark/assets/icon/icon_256x256.png
+2022-09-19 16:33:37.602952 +0800 CST m=+6.207967376[INFO ] failed to upload #TASK_1 /Applications/Typora.app/Contents/Resources/TypeMark/assets/icon/icon_256x256.png : Put "https://api.github.com/repos/h-a-n-a/static/contents/2022/09/upgit_20220919_1663576414.png": EOF
+2022-09-19 16:35:50.766969 +0800 CST m=+0.006017334[INFO ] Started
+2022-09-19 16:35:50.768237 +0800 CST m=+0.007285292[INFO ] uploader: github
+2022-09-19 16:35:50.76859 +0800 CST m=+0.007638584[INFO ] uploading #TASK_0 upgit.log
